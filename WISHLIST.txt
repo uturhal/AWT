@@ -1,4 +1,4 @@
-ID	COUNTRY	URL	WISHLIST	LOG_CHANNEL
+ID	COUNTRY	BASE_URL	WISHLIST	LOG_CHANNEL
 1	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/hz/wishlist/genericItemsPage/FY1NW521H52L	-1001215441140
 2	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/hz/wishlist/genericItemsPage/1BDBMCTTPEADM	-1001215441140
 3	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/hz/wishlist/genericItemsPage/JO0OTZIOMA9I	-1001215441140
