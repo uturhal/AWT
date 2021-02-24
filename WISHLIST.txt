@@ -55,3 +55,4 @@ ID	COUNTRY	BASE_URL	WISHLIST	MAIN_CHANNEL	LOG_CHANNEL
 54	IT	https://www.amazon.it	https://www.amazon.it/hz/wishlist/genericItemsPage/3QK8POL3ODD1T	-1001423841896	-1001251275138
 55	FR	https://www.amazon.fr	https://www.amazon.fr/hz/wishlist/genericItemsPage/365ND4EOUIYIQ	-1001423841896	-1001251275138
 56	DE	https://www.amazon.de	https://www.amazon.de/-/tr/hz/wishlist/genericItemsPage/1RGYIZX6AVANP	-1001423841896	-1001251275138
+57	TR	https://www.amazon.com.tr	https://www.amazon.com.tr/hz/wishlist/genericItemsPage/2J2P7PRJI2DH3	-1001423841896	-1001251275138
